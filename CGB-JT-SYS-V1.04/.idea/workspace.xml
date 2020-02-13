@@ -7,7 +7,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1W6NwfRvuvycXp2Z0Ngcwt2Yonb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -18,7 +22,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -46,32 +50,95 @@
       <workItem from="1578534652963" duration="4640000" />
       <workItem from="1579358305182" duration="1662000" />
       <workItem from="1581482269233" duration="1242000" />
+      <workItem from="1581497339684" duration="4783000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:E:/git/workspace/test/CGB-JT-SYS-V1.04" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="622" y="80" key="FileChooserDialogImpl" timestamp="1581491612946">
+    <state x="129" y="48" key="DiffContextDialog" timestamp="1581564783776">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="622" y="80" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581491612946" />
-    <state x="0" y="0" width="1366" height="728" key="SettingsEditor" timestamp="1579360226910">
+    <state x="129" y="48" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1581564783776" />
+    <state x="622" y="80" key="FileChooserDialogImpl" timestamp="1581584014125">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="0" y="0" width="1366" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1579360226910" />
+    <state x="622" y="80" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581584014125" />
+    <state x="311" y="0" width="754" height="728" key="NewModule_or_Project.wizard" timestamp="1581583614949">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="311" y="0" width="754" height="728" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1581583614949" />
+    <state x="391" y="3" key="RollbackChangesDialog" timestamp="1581564785715">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="3" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1581564785715" />
+    <state x="0" y="0" width="1366" height="728" key="SettingsEditor" timestamp="1581497512883">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="1366" height="728" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581497512883" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1581497515251">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1581497515251" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1578560854414">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1578560854414" />
-    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1581482271923">
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1581497341887">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581482271923" />
+    <state x="363" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581497341887" />
     <state x="0" y="0" width="775" height="728" key="find.popup" timestamp="1581491632230">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="0" y="0" width="775" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1581491632230" />
+    <state x="457" y="105" key="git4idea.merge.GitMergeDialog" timestamp="1581564569734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="457" y="105" key="git4idea.merge.GitMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1581564569734" />
+    <state x="377" y="105" key="git4idea.merge.GitPullDialog" timestamp="1581564392943">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="377" y="105" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1581564392943" />
   </component>
 </project>
